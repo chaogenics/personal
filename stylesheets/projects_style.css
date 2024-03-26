@@ -1,0 +1,15 @@
+div {
+      display: inline-block;
+      align-items: center;
+    }
+
+img {
+	float: left;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+
+footer{
+	text-align: center;
+}
+
